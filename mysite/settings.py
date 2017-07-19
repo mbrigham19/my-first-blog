@@ -25,7 +25,7 @@ SECRET_KEY = '@@vaq-y*z(@!atcra!%cjc4hkp@1gyk+3&sv^ed35utga2#ca-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<mbrigham>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'mbrigham.pythonanywhere.com']
 
 
 # Application definition
@@ -106,7 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'America/New York'
+TIME_ZONE = 'America/New_York'
 
 USE_I18N = True
 
